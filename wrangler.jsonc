@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "turborc-leaderboard-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "turborc-leaderboard",
+			"database_id": "0d18313d-2693-47b9-accc-475d98398105"
+		}
+	]
+}
